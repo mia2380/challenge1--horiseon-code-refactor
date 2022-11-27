@@ -35,7 +35,7 @@ SO THAT our own site is optimized for search engines
 
 ## Links
 
-- [Link to the deployed website]
+- [Link to the deployed website] https://mia2380.github.io/challenge1--horiseon-code-refactor/
 
 - [Link to the code repository] https://github.com/mia2380/challenge1--horiseon-code-refactor.git
 
