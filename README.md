@@ -1,7 +1,8 @@
 # challenge1--horiseon-code-refactor
+
 ## User Story
 
-AS A marketing agency
+As a marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
@@ -23,10 +24,9 @@ SO THAT our own site is optimized for search engines
 
 - Changed website tittle and added a meta description for SEO, user experience, and device compatibility;
 - Added alt text on images and icons for SEO and accessibility;
-- Explanatory comments were provided in the CSS document;
-- CSS was reorganized to follow a logical structure;
-- Classes and elements were cleaned up, and combined where possible;
-- Comments added to delineate each separation.
+- Added comments to the CSS document;
+- Reorganized the CSS file to follow a logical structure;
+- Attributes were cleaned up and combined to make the code easier to follow
 
 ## Technologies Used
 
@@ -48,6 +48,3 @@ The application can be viewed in a traditional desktop web browser when deployed
 a screenshot of the website is posted in the assests folder.
 
 ![screenshot](https://user-images.githubusercontent.com/112995643/204113773-eb5d1a35-3ed9-4731-ba57-19cd5dbacfd8.jpeg)
-
-
-##
